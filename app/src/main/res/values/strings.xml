@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpeakToMe</string>
+
+    <string name="anweisung">Tell me what to tell!</string>
+    <string name="action_settings">Settings</string>
+    <string name="speakButton">Speak</string>
+
+</resources>
